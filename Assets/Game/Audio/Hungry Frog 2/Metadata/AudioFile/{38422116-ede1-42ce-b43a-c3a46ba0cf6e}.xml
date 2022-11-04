@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{38422116-ede1-42ce-b43a-c3a46ba0cf6e}">
+		<property name="assetPath">
+			<value>429597__inspectorj__chewing-breadstick-single-f.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.80040816326530617</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3f7a65e2-45e7-4bef-a4de-fcaaf812f3f9}</destination>
+		</relationship>
+	</object>
+</objects>

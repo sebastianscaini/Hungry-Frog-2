@@ -1,0 +1,317 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8611134197113138236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Menu BGM
+  m_EditorClassIdentifier: 
+  Path: event:/Menu BGM
+  Guid:
+    Data1: -184725183
+    Data2: 1276490974
+    Data3: -1298893693
+    Data4: -787920159
+  Banks:
+  - {fileID: 452207248699466968}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 144848
+--- !u!114 &-8384366141585151573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ribbit
+  m_EditorClassIdentifier: 
+  Path: event:/Ribbit
+  Guid:
+    Data1: 1490694345
+    Data2: 1195510325
+    Data3: 1160226442
+    Data4: 1164670624
+  Banks:
+  - {fileID: 452207248699466968}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 467
+--- !u!114 &-4212896930326375483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Glass
+  m_EditorClassIdentifier: 
+  Path: event:/Glass
+  Guid:
+    Data1: -1956711803
+    Data2: 1282020258
+    Data3: -1213665640
+    Data4: -10521187
+  Banks:
+  - {fileID: 452207248699466968}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1847
+--- !u!114 &-785705933763698683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Splash
+  m_EditorClassIdentifier: 
+  Path: event:/Splash
+  Guid:
+    Data1: 1025219918
+    Data2: 1272175017
+    Data3: 2142636987
+    Data4: 1598164966
+  Banks:
+  - {fileID: 452207248699466968}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3181
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 4868854668979556887}
+  - {fileID: 452207248699466968}
+  EditorEvents:
+  - {fileID: -4212896930326375483}
+  - {fileID: 3913132357952548827}
+  - {fileID: 8290813247896210813}
+  - {fileID: 6701296711448147716}
+  - {fileID: 4553116416222663990}
+  - {fileID: -8611134197113138236}
+  - {fileID: 3240634410636092990}
+  - {fileID: -785705933763698683}
+  - {fileID: -8384366141585151573}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 452207248699466968}
+  StringsBanks:
+  - {fileID: 4868854668979556887}
+  cacheTime: 637881225793310678
+  cacheVersion: 10
+--- !u!114 &452207248699466968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Game/Audio/Hungry Frog 2/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 637881225793276751
+  FileSizes:
+  - Name: Desktop
+    Value: 7114112
+  Exists: 1
+--- !u!114 &3240634410636092990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pop
+  m_EditorClassIdentifier: 
+  Path: event:/Pop
+  Guid:
+    Data1: -1110959704
+    Data2: 1165461382
+    Data3: -13597006
+    Data4: 432852509
+  Banks:
+  - {fileID: 452207248699466968}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 48
+--- !u!114 &3913132357952548827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Crunch
+  m_EditorClassIdentifier: 
+  Path: event:/Crunch
+  Guid:
+    Data1: 435062671
+    Data2: 1220333024
+    Data3: -394691166
+    Data4: 411908921
+  Banks:
+  - {fileID: 452207248699466968}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 627
+--- !u!114 &4553116416222663990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music
+  m_EditorClassIdentifier: 
+  Path: event:/Music
+  Guid:
+    Data1: -356675843
+    Data2: 1316961014
+    Data3: -348263262
+    Data4: 1399203044
+  Banks:
+  - {fileID: 452207248699466968}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 179356
+--- !u!114 &4868854668979556887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Game/Audio/Hungry Frog 2/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 637881225793310678
+  FileSizes:
+  - Name: Desktop
+    Value: 1078
+  Exists: 1
+--- !u!114 &6701296711448147716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Pond
+  m_EditorClassIdentifier: 
+  Path: event:/Pond
+  Guid:
+    Data1: 1632079861
+    Data2: 1110293967
+    Data3: -2093041224
+    Data4: 1517913365
+  Banks:
+  - {fileID: 452207248699466968}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 112353
+--- !u!114 &8290813247896210813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Frogs
+  m_EditorClassIdentifier: 
+  Path: event:/Frogs
+  Guid:
+    Data1: -1459680354
+    Data2: 1198610239
+    Data3: 155226263
+    Data4: 670172084
+  Banks:
+  - {fileID: 452207248699466968}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 120820

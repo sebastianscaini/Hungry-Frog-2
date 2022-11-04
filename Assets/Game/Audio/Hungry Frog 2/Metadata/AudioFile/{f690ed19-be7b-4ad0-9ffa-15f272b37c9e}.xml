@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f690ed19-be7b-4ad0-9ffa-15f272b37c9e}">
+		<property name="assetPath">
+			<value>Heftone Banjo Orchestra - Down Home Rag.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>179.35673469387754</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3f7a65e2-45e7-4bef-a4de-fcaaf812f3f9}</destination>
+		</relationship>
+	</object>
+</objects>
