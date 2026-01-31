@@ -71,7 +71,7 @@ public class Tongue : MonoBehaviour
         {
             collision.gameObject.GetComponent<Rigidbody2D>().gravityScale = 0f;
             collision.gameObject.GetComponent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezeRotation;
-            collision.gameObject.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
+            collision.gameObject.GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
             collision.gameObject.transform.position = new Vector3(collision.gameObject.transform.position.x, collision.gameObject.transform.position.y, transform.position.z);
             collision.gameObject.GetComponent<Collider2D>().isTrigger = true;
             

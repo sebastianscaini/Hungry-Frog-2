@@ -138,7 +138,7 @@ MonoBehaviour:
   - {fileID: 452207248699466968}
   StringsBanks:
   - {fileID: 4868854668979556887}
-  cacheTime: 637881225793310678
+  cacheTime: 639054134768420719
   cacheVersion: 10
 --- !u!114 &452207248699466968
 MonoBehaviour:
@@ -155,7 +155,7 @@ MonoBehaviour:
   Path: Assets/Game/Audio/Hungry Frog 2/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637881225793276751
+  lastModified: 639054134768400640
   FileSizes:
   - Name: Desktop
     Value: 7114112
@@ -256,7 +256,7 @@ MonoBehaviour:
   Path: Assets/Game/Audio/Hungry Frog 2/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637881225793310678
+  lastModified: 639054134768420719
   FileSizes:
   - Name: Desktop
     Value: 1078
