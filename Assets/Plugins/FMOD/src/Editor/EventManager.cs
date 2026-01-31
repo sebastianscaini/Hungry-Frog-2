@@ -1024,7 +1024,7 @@ namespace FMODUnity
         {
             RefreshBanks();
             #if UNITY_ANDROID
-            Settings.Instance.AndroidUseOBB = PlayerSettings.Android.useAPKExpansionFiles;
+            Settings.Instance.AndroidUseOBB = PlayerSettings.Android.splitApplicationBinary;
             #endif
         }
 
